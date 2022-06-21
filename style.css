@@ -1,3 +1,15 @@
 html {
     background-color: black;
 }
+
+#ramblock {
+    color: red;
+}
+
+#heavy {
+    position: fixed;
+    bottom: 1;
+    right: 0;
+    width: 644px;
+    border: 3px solid white;
+}
