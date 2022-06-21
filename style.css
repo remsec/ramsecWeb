@@ -1,9 +1,9 @@
 html {
-    background-color: black;
+    background-color: #000000;
 }
 
 #ramblock {
-    color: red;
+    color: #ff3300;
 }
 
 #heavy {
@@ -11,7 +11,7 @@ html {
     bottom: 1;
     right: 0;
     width: 644px;
-    border: 3px solid white;
+    border: 3px solid #ffffff;
 }
 
 #important {
@@ -24,7 +24,7 @@ html {
 }
 
 #importantbuttons {
-    color: white;
+    color: #ffffff;
 }
 
 #flipvid {
