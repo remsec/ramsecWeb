@@ -3,7 +3,7 @@ html {
 }
 
 #ramblock {
-    color: #ff3300;
+    color: #ff0000;
 }
 
 #heavy {
@@ -40,5 +40,17 @@ html {
     bottom: 25px;
     left:150px;
     top: 25px;
+
+}
+
+#deeper {
+    border: 2px solid #ffffff;
+    color:  #000000;
+    background-color: #ff0000;
+    margin: 48px 48px;
+    padding: 48px 82px;
+    border-radius: 12px;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
