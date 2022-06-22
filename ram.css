@@ -87,3 +87,16 @@ h1 {
     cursor: pointer;
 
 }
+
+#doom {
+    position: fixed;
+    bottom: 575px;
+    right: 10px;
+
+}
+
+#cs16 {
+    position: fixed;
+    bottom: 300px;
+    right: 10px;
+}
