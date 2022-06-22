@@ -54,3 +54,23 @@ html {
     font-family: 'Times New Roman', Times, serif;
 
 }
+
+#woahlink {
+    position: relative;
+    width: 240px;
+    height: 240px;
+    bottom: 25px;
+    left: 150px;
+    top: 125px;
+
+}
+
+#ramseclink {
+    position: relative;
+    width: 240px;
+    height: 240px;
+    bottom: 25px;
+    left: 644px;
+    top: 125px;
+
+}
